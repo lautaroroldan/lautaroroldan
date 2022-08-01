@@ -2,14 +2,14 @@
 
 [📧](lautaronicolasroldan@gmail.com)
 
-> a java developer
+> a Java developer
 #### 📍 Currently base at: Mar del Plata, Argentina
 
 <!-- #### 💼 Currently working as: Tomorrow Wormhole at [Newsdog](https://www.newsdogapp.com/) -->
 
 #### 👨🏻‍💻 Currently working on:
 
-<a src="https://spring.io/"><img src="https://www.pngfind.com/pngs/m/53-535670_spring-framework-logo-spring-boot-hd-png-download.png"/></a>
+<a src="https://spring.io/"><img src="https://img.icons8.com/dusk/48/java-coffee-cup-logo.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a>
