@@ -2,7 +2,7 @@
 
 [📧](lautaronicolasroldan@gmail.com)
 
-> a Java developer
+> a Fullstack developer
 #### 📍 Currently base at: Mar del Plata, Argentina
 
 <!-- #### 💼 Currently working as: Tomorrow Wormhole at [Newsdog](https://www.newsdogapp.com/) -->
